@@ -1,5 +1,3 @@
-print ("This is not a hello world program. But I am very Happy! :))
-quit
-
-print("Hey!")
+print ("This is not a hello world program. But I am very Happy! :)")
+print("Hey! how are you holding up?")
 
